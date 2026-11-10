@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reward360-reimagined.bobblr.chatgpt.site/sitemap.xml
